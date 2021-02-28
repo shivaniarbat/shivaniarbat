@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaniarbat&show_icons=true&count_private=true&theme=dracula)
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniarbat&theme=dracula&layout=compact)
 -->
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaniarbat&show_icons=true&theme=dracula)
+<a href="https://github.com/shivaniarbat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaniarbat&show_icons=true&count_private=true&theme=dracula" alt="Shivani's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniarbat&theme=dracula&layout=compact" alt="Shivani's github top languages" />
+</a>
+<br/>
